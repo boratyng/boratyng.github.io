@@ -1,1 +1,1 @@
-# boratyng.github.io
+Magic-BLAST documentation
