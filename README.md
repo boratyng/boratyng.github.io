@@ -1,1 +1,1 @@
-Magic-BLAST documentation
+## Hello world
